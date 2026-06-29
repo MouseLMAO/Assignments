@@ -1,12 +1,12 @@
-# Flowchart
+## Flowchart
 https://drive.google.com/file/d/1lX3GwB4kGNTHq7nPC8GdrRo_XRYV_nkU/view?usp=sharing
 
-# Challenges
+## Challenges
 Understanding how the motion-sensing light worked.
 If it says and, the variables are together
 If it says or, then the variables are added together with a +
 
-# Solutions
+## Solutions
 F = A'B'C' and A'B'C can become A'B'(C'+C) in which c'+C = 1, making it A'B'
 The most it can be simplified is to F= A'B' + A'BC + AB'C + ABC'
 
